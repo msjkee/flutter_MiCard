@@ -1,0 +1,1 @@
+ /Users/macbook/Desktop/mi_card_flutter/.dart_tool/flutter_build/2c848c8b02acf9a07bceef0b580d2ffd/native_assets.json: 
