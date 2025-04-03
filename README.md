@@ -1,28 +1,40 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# 💼 Flutter Profile Card App
 
-# Mi Card
+A clean and minimal profile card built with **Flutter**. This app shows off basic Flutter layout techniques using:
 
-## Our Goal
+- 🧑‍🎨 `CircleAvatar` for profile image  
+- 🎨 Custom fonts & text styles  
+- ✉️ `ListTile` inside `Card` widgets for contact info  
+- 📏 `SizedBox` and `Divider` for spacing  
+- 📱 Beautiful layout with `SafeArea` and `Column`
 
-Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
+## 📸 Screenshot
 
-## What you will create
-
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
-
-## What you will learn
-
-* How to create Stateless Widgets
-* What is the difference between hot reload and hot refresh and running an app from cold
-* How to use Containers to lay out your UI
-* How to use Columns and Rows to position your UI elements
-* How to add custom fonts
-* How to add Material icons
-* How to style Text widgets
-* How to read and use Flutter Documentation
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/014a4024-d6fa-49d6-8aad-08d86868d15a" />
 
 
+## 🚀 Getting Started
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+1. Clone this repo:  
+   `git clone https://github.com/yourusername/mi_card_flutter.git`
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+2. Get dependencies:  
+   `flutter pub get`
+
+3. Run the app:  
+   `flutter run`
+
+## 📦 Built With
+
+- 🐦 Flutter SDK  
+- 💻 Dart  
+- 🧩 Material Design widgets
+
+## 👨‍💻 Author
+
+**Misha Stukalov**  
+GitHub: [https://github.com/msjkee](https://github.com/msjkee)
+
+## 🎯 Goal
+
+Part of my Flutter learning journey — more coming soon! 💪🔥
